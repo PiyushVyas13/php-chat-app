@@ -1,0 +1,13 @@
+{
+    "name": "piyush/ws-cr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PiyushVyas13",
+            "email": "jaiprakashvyas6@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}

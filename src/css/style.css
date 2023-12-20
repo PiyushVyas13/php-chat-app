@@ -1,0 +1,79 @@
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  width: 35rem;
+  background-color: rgb(255, 255, 255);
+}
+/* .navbar {
+  margin-bottom: 2px;
+} */
+.div1 {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.loginForm input {
+  width: 30rem;
+}
+.registerForm {
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  width: 35rem;
+  background-color: rgb(255, 255, 255);
+}
+.div2 {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.registerForm input {
+  width: 30rem;
+}
+
+/*nav {
+  width: 96rem;
+} */
+
+.chat-message {
+  background-color: aqua;
+}
+
+.messageDiv {
+  padding-right: 10rem;
+  padding-right: 10rem;
+}
+.div3 {
+  margin-top: 10rem;
+}
+.div3 input {
+  width: 35rem;
+}
+body {
+  height: 100%;
+}
+.divIndex {
+  align-self: flex-start;
+}
+body ol li {
+  background-color: aqua;
+}
+body ol a {
+  background-color: aqua;
+}
+.listStyle:hover {
+  background-color: black;
+}
+.buttonW {
+  width: 15rem;
+}
